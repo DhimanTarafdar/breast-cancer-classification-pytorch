@@ -45,14 +45,6 @@ I tested three modifications to compare performance:
 
 Finding: The original simple architecture was already optimal. Adding complexity did not improve results, showing that simpler models work better for this dataset.
 
-## Technologies
-
-- Python
-- PyTorch
-- NumPy
-- Pandas
-- Scikit-learn
-
 ## Key Takeaways
 
 - Data normalization is essential for neural network training
